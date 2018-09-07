@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Green text is comments it wil have two slashed on the front or be surrounded in /*   */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
